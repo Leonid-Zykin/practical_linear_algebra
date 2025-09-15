@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'PLA_lab4_report.blg'
+[60] biber:340> INFO - === Thu Sep  4, 2025, 16:20:04
+[82] Biber.pm:419> INFO - Reading 'PLA_lab4_report.bcf'
+[160] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[173] bbl.pm:660> INFO - Writing 'PLA_lab4_report.bbl' with encoding 'UTF-8'
+[173] bbl.pm:763> INFO - Output to PLA_lab4_report.bbl
+[174] Biber.pm:131> WARN - The file 'PLA_lab4_report.bcf' does not contain any citations!
+[174] Biber.pm:133> INFO - WARNINGS: 1

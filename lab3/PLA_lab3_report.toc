@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\chapternumberline {1}Ход выполнения работы}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Задание 1. Построение куба в пространстве}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Задание 2. Масштабирование куба}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Задание 3. Перенос куба}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Задание 4. Поворот куба}{6}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Задание 5. Поворот куба вокруг вершины}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Задание 6. Виртуальная камера}{9}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Задание 7. Перспективное отображение}{10}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Выводы}{11}{section.1.8}%
